@@ -1,4 +1,4 @@
-# musicapp
+# Application météo VueJS
 
 > simple
 
